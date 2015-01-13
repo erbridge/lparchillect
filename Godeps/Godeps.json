@@ -1,0 +1,38 @@
+{
+	"ImportPath": "github.com/erbridge/lparchillect",
+	"GoVersion": "go1.4",
+	"Deps": [
+		{
+			"ImportPath": "github.com/ChimeraCoder/anaconda",
+			"Rev": "732444f9c6f7d249e7d0aecf1f975b883d77be80"
+		},
+		{
+			"ImportPath": "github.com/ChimeraCoder/tokenbucket",
+			"Rev": "c5a927568de7aad8a58127d80bcd36ca4e71e454"
+		},
+		{
+			"ImportPath": "github.com/dustin/go-jsonpointer",
+			"Rev": "75939f54b39e7dafae879e61f65438dadc5f288c"
+		},
+		{
+			"ImportPath": "github.com/dustin/gojson",
+			"Rev": "057ac0edc14e44d03df3bb03449e666ff50884c1"
+		},
+		{
+			"ImportPath": "github.com/erbridge/gotwit/bot",
+			"Rev": "0bb3d4b5c3ab97ad40b3a91211de0036b9e024cc"
+		},
+		{
+			"ImportPath": "github.com/erbridge/gotwit/callback",
+			"Rev": "0bb3d4b5c3ab97ad40b3a91211de0036b9e024cc"
+		},
+		{
+			"ImportPath": "github.com/erbridge/gotwit/twitter",
+			"Rev": "0bb3d4b5c3ab97ad40b3a91211de0036b9e024cc"
+		},
+		{
+			"ImportPath": "github.com/garyburd/go-oauth/oauth",
+			"Rev": "3569e4f99821388ee0a971edd55e1a76cf761407"
+		}
+	]
+}
